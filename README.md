@@ -6,7 +6,7 @@ Este proyecto es una aplicación web sencilla que simula un formulario de regist
 ## Instrucciones para ejecutar
 1. Clona este repositorio en tu computadora usando Git:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/santiagosessa/Tarea-2.git
    ```
 2. No es necesario instalar dependencias.
 3. Abre el archivo `index.html` en tu navegador web preferido (Google Chrome, Firefox, Safari, Edge, etc.) haciendo doble clic sobre él.
